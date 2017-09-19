@@ -1,0 +1,20 @@
+{
+  "name": "js-angular-templatefiles",
+  "description": "Template files for setting up Angular new projects.  Updated constantly.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Rich Garrick"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
