@@ -1,6 +1,7 @@
 # Template file Readme
 
 Template files for setting up Angular new projects.  Updated constantly.
+Please consider Starring the file and use as much as you like.
 
 ## Setup/Installation Requirements
 
