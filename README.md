@@ -3,6 +3,23 @@
 Template files for setting up Angular new projects.  Updated constantly.
 Please consider Starring the file and use as much as you like.
 
+## FAST PROJECT SETUP
+(npm install -g @angular/cli@1.0.0 must be installed on local computer)
+navigate to where you want project folder to reside
+ng new project-name
+bower init
+modify gitignore
+bower install bootstrap --save
+add "styles": [
+        "styles.css",
+        "../bower_components/bootstrap/dist/css/bootstrap.css"
+      ],
+	to angular-cli.json file
+
+build and run with:  ng serve
+
+
+
 ## Setup/Installation Requirements
 
 <pre><code>
